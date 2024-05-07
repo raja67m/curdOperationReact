@@ -1,0 +1,16 @@
+h1{
+   text-align: center;
+   text-transform: uppercase;
+   color: red;
+}
+.add-btn{
+   margin-left: 92%;
+}
+table{
+   border-collapse: collapse;
+   padding: 60px;
+   align-items: center;
+}
+th,td{
+   padding: 20px;
+}
